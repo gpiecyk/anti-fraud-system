@@ -3,11 +3,11 @@ hyperskill_project:
   ide_files: https://stepik.org/media/attachments/lesson/657120/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: Sun, 07 Aug 2022 14:39:06 UTC
+update_date: Tue, 16 Aug 2022 18:54:29 UTC
 stages:
 - id: 1161
   step: 18067
-  is_completed: false
+  is_completed: true
 - id: 1162
   step: 18068
   is_completed: false
@@ -35,10 +35,6 @@ topics:
     theory_id: 9704
   - title: Computer algorithms
     theory_id: 16547
-  - title: World Wide Web
-    theory_id: 6633
-  - title: HyperText Transfer Protocol
-    theory_id: 6569
   - title: The big O notation
     theory_id: 16699
   - title: Best, average and worst cases
@@ -47,14 +43,12 @@ topics:
     theory_id: 16927
   - title: Immutability
     theory_id: 7929
-  - title: HTML basics
-    theory_id: 6434
+  - title: World Wide Web
+    theory_id: 6633
+  - title: HyperText Transfer Protocol
+    theory_id: 6569
   - title: HTTP URL
     theory_id: 6740
-  - title: Tags and Attributes
-    theory_id: 7536
-  - title: HTML page structure
-    theory_id: 6491
   - title: Introduction to Spring Boot
     theory_id: 7944
   - title: Getting started with Spring Boot
@@ -195,24 +189,30 @@ topics:
     theory_id: 19510
   - title: Complex constructions in pseudocode
     theory_id: 20922
-  - title: Web development
-    theory_id: 13931
   - title: Fixed-size array
     theory_id: 20078
   - title: Dynamic array
     theory_id: 5357
   - title: External resources
     theory_id: 6216
+  - title: Web development
+    theory_id: 13931
+  - title: HTML basics
+    theory_id: 6434
+  - title: Tags and Attributes
+    theory_id: 7536
+  - title: HTML page structure
+    theory_id: 6491
   - title: Libraries
     theory_id: 8504
   - title: Frameworks
     theory_id: 6701
-  - title: JSON
-    theory_id: 6854
   - title: YAML
     theory_id: 12722
   - title: Introduction to software architecture
     theory_id: 15368
+  - title: JSON
+    theory_id: 6854
   - title: Authentication and Authorization
     theory_id: 14219
   - title: Introduction to generic programming

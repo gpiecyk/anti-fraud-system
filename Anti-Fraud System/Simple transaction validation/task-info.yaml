@@ -218,6 +218,21 @@ files:
     management.endpoint.shutdown.enabled=true
     spring.jackson.serialization.INDENT_OUTPUT=true
   learner_created: false
+- name: src/antifraud/transaction/rest/TransactionController.java
+  visible: true
+  learner_created: true
+- name: src/antifraud/transaction/data/TransactionData.java
+  visible: true
+  learner_created: true
+- name: src/antifraud/transaction/constants/TransactionStatus.java
+  visible: true
+  learner_created: true
+- name: src/antifraud/transaction/data/TransactionDto.java
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/learn/step/18067#comment
-status: Unchecked
-record: -1
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Tue, 16 Aug 2022 20:22:21 UTC
+record: 1
