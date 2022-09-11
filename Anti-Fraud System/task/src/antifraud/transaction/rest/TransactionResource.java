@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/api/antifraud")
-public class TransactionController {
+public class TransactionResource {
 
     @PostMapping("/transaction")
     public ResponseEntity<TransactionDto> performTransaction(@RequestBody TransactionData transaction) {
